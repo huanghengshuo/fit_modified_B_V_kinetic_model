@@ -10,7 +10,7 @@ School of Materials Science and Engineering, Peking University, Beijing 100871, 
 
 ## 📌 Overview
 
-This repository contains the MATLAB code used for fitting the modified Butler–Volmer (B–V) kinetic model described in our manuscript. 
+This repository contains the MATLAB code used for fitting the modified Butler–Volmer (B–V)  kinetic model described in our manuscript. 
 
 The script performs non-linear least-squares fitting of experimental ORR polarization data, extracting three physically meaningful parameters:
 
